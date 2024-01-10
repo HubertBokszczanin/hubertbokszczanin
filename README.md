@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hubert</h1>
-<h3 align="center">Technical Operation Expert</h3>
+<h3 align="center">Python Developer</h3>
 
 - 🔭 I’m currently working on **Web Applications with Flask**
 
