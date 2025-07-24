@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hubert</h1>
 <h3 align="center">Python Developer</h3>
 
-- 🔭 I’m currently working on **Web Applications with Flask**
+- 🔭 I’m currently working on **Web Applications with Django**
 
-- 🌱 I’m currently learning **Cybersecurity, Python, Linux**
+- 🌱 I’m currently learning **Cybersecurity, AWS, Linux**
 
 - 📫 How to reach me **bokszczanin.hubert@proton.me**
 
